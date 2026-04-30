@@ -1,0 +1,14 @@
+{
+  "name": "@nova/shared",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Shared types and constants for Nova Camp",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "lint": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
